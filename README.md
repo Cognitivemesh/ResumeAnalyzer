@@ -12,9 +12,16 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-# ResumeAnalyzer
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Cognitivemesh/ResumeAnalyzer">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-Resume Analyzer is a Jupyter Notebook / JupyterLab / GoogleColab project for analyzing Resumes. It is built in multiple technologies such as Python, Rust, JavaScript and WebAssembly.
+  <h3 align="center">Resume Analyzer</h3>
+
+Resume Analyzer is a framework for building Resume Analyzing application over Jupyter Notebook / JupyterLab / GoogleColab project for analyzing Resumes. It is built in multiple technologies such as Python, Rust, JavaScript and WebAssembly.
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -106,3 +113,5 @@ Project Link: [https://github.com/cognitivemesh/ResumeAnalyzer](https://github.c
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Acknowledgments
+
+* https://github.com/othneildrew/Best-README-Template
