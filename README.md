@@ -1,3 +1,4 @@
+<div id="top"></div>
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -21,8 +22,12 @@
 
   <h3 align="center">Resume Analyzer</h3>
 
-Resume Analyzer is a framework for building Resume Analyzing application over Jupyter Notebook / JupyterLab / GoogleColab project for analyzing Resumes. It is built in multiple technologies such as Python, Rust, JavaScript and WebAssembly.
-
+</div>
+<div align="left">
+<p>Resume Analyzer is a framework for building Resume Analyzing application over Jupyter Notebook / JupyterLab / GoogleColab project for analyzing Resumes. It is built in multiple technologies such as Python, Rust, JavaScript and WebAssembly.</p>
+</div>
+<br />
+<br />
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
